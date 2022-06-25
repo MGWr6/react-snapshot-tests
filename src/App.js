@@ -1,10 +1,10 @@
 import './App.css';
-import Todo from './components/Todo';
+import GitHubCard from './components/GitHubCard';
 
 function App() {
   return (
     <div className="App">
-      <Todo/>
+      <GitHubCard/>
     </div>
   );
 }
